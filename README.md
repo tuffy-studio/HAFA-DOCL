@@ -7,7 +7,7 @@
 </div>
 
 ## Overview
-This repository contains the implementation of our team's (HIT-VIRLAB) solution for [NTIRE 2026 - Robust Deepfake Detection Callenge @ CVPR 2026](https://www.codabench.org/competitions/12795/#/pages-tab): Hierarchical Adaptive Feature Aggregation with Degraded-Original Consistency Learning for Robust Deepfake Detection. Our method ranked 7th out of 337 participants in the final test phase, and has been officially included in the NTIRE2026 - Robust Deepfake Detection Challenge Report at the CVPR 2026 Workshop.
+This repository contains the implementation of **HAFA-DOCL: Hierarchical Adaptive Feature Aggregation with Degraded-Original Consistency Learning for Robust Deepfake Detection**. Our method ranked 7th out of 337 participants in the final test phase, and has been officially included in the NTIRE2026 - Robust Deepfake Detection Challenge Report at the CVPR 2026 Workshop.
 
 ![alt text](./assets/HAFA-DOCL.png)
 
